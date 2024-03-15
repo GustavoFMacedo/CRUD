@@ -1,0 +1,49 @@
+.cor-navbar{
+    background-color: rgb(5, 6, 59);
+}
+
+.titulo-navbar a{
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.titulo2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.titulo-colunas th{
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.dentro-colunas{
+    font-size: 20px;
+}
+
+.btn-editar{
+    background-color: rgba(12, 13, 71, 0.849);
+    font-weight: 500;
+}
+
+.btn-editar:hover{
+    background-color: rgb(0, 0, 0);
+}
+
+.btn-deletar{
+    background-color: rgba(6, 6, 43, 0.89);
+    font-weight: 500;
+}
+
+.btn-deletar:hover{
+    background-color: rgb(0, 0, 0);
+}
+
+.btn-adicionar{
+    background-color: rgba(7, 7, 82, 0.89);
+    font-weight: 500;
+}
+
+.btn-adicionar:hover{
+    background-color: rgb(0, 0, 0);
+}

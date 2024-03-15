@@ -16,16 +16,12 @@
 <body>
     <header>
         <nav>
-            <div class="nav-wrapper deep orange">
-                <a href="#!" class="brand-logo">crud</a>
+            <div class="nav-wrapper cor-navbar titulo-navbar">
+                <a href="#!" class="brand-logo center">CRUD</a>
                 <a href="#" data-target="mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-                <ul class="right hide-on-med-and-down">
-                    <li><a href="{{route('admin.funcionarios')}}">funcionarios</a></li>
-                </ul>
+               
             </div>
         </nav>
 
-        <ul class="sidenav" id="mobile">
-            <li><a href="{{route('admin.funcionarios')}}">funcionarios</a></li>
-        </ul>
+      
     </header>
